@@ -24,8 +24,8 @@ def contains(list, filter):
 # Set stdout to Unicode
 sys.stdout = codecs.getwriter('utf8')(sys.stdout)
 
-pinuser = "dogsolitude"
-pinpasswd = "p7CAjT3ZqiveE"
+pinuser = # Add User Name
+pinpasswd = # Add Password
 
 # Create a day object for today
 today = date.today()
